@@ -11,7 +11,7 @@ I enjoy turning ideas into scalable products using modern web technologies.
 ### **SubKiller AI**
 An AI-powered web app that helps users **detect, track, and manage subscriptions** automatically using email and card data.
 
-👉 https://github.com/tobyameer/subkiller
+👉 https://github.com/tobyameer/subkiller-ai
 
 ---
 
