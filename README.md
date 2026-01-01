@@ -1,15 +1,38 @@
-## Hi there 👋, my name is Mohsen Ameer
+# 👋 Hi there, I’m **Mohsen Ameer**
 
-I'm a Front-end developer intrested in all Web developing based technology!
+## 🚀 Full-Stack Web Developer | AI-Powered Applications
 
-- 🔭 I’m currently working on a Netflix clone, check it out [Here](https://github.com/tobyameer/netflix-clone).
-- 🌱 I’m currently learning Back-end technology to become a fullstack Web developer!
+I’m a **Full-Stack Web Developer** with a strong focus on building **real-world web applications and AI-powered tools**.  
+I enjoy turning ideas into scalable products using modern web technologies.
 
+---
 
+## 🔭 Currently Working On
+### **SubKiller AI**
+An AI-powered web app that helps users **detect, track, and manage subscriptions** automatically using email and card data.
 
-<!--
-**tobyameer/tobyameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👉 https://github.com/tobyameer/subkiller
 
-Here are some ideas to get you started:
+---
 
--->
+## 🌱 Currently Improving
+- Advanced **JavaScript & TypeScript**
+- Backend systems & APIs
+- AI integrations in web apps
+- Cloud & deployment workflows
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Vite, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, MySQL
+- **DevOps:** Docker, Git, GitHub
+- **Other:** REST APIs, Authentication, AI APIs
+
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/tobyameer
+
+Always open to learning, collaborating, and building meaningful products.
