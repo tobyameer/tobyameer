@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Mohsen Ameer**
 
-## 🚀 Full-Stack Web Developer | AI-Powered Applications
+## 🚀 Full-Stack Web Developer | AI-Automation
 
 I’m a **Full-Stack Web Developer** with a strong focus on building **real-world web applications and AI-powered tools**.  
 I enjoy turning ideas into scalable products using modern web technologies.
